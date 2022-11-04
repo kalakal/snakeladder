@@ -1,0 +1,14 @@
+E:\bridgelab\SnakeandLadder\bin\Debug\netcoreapp3.1\SnakeandLadder.exe
+E:\bridgelab\SnakeandLadder\bin\Debug\netcoreapp3.1\SnakeandLadder.deps.json
+E:\bridgelab\SnakeandLadder\bin\Debug\netcoreapp3.1\SnakeandLadder.runtimeconfig.json
+E:\bridgelab\SnakeandLadder\bin\Debug\netcoreapp3.1\SnakeandLadder.runtimeconfig.dev.json
+E:\bridgelab\SnakeandLadder\bin\Debug\netcoreapp3.1\SnakeandLadder.dll
+E:\bridgelab\SnakeandLadder\bin\Debug\netcoreapp3.1\SnakeandLadder.pdb
+E:\bridgelab\SnakeandLadder\obj\Debug\netcoreapp3.1\SnakeandLadder.csproj.AssemblyReference.cache
+E:\bridgelab\SnakeandLadder\obj\Debug\netcoreapp3.1\SnakeandLadder.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelab\SnakeandLadder\obj\Debug\netcoreapp3.1\SnakeandLadder.AssemblyInfoInputs.cache
+E:\bridgelab\SnakeandLadder\obj\Debug\netcoreapp3.1\SnakeandLadder.AssemblyInfo.cs
+E:\bridgelab\SnakeandLadder\obj\Debug\netcoreapp3.1\SnakeandLadder.csproj.CoreCompileInputs.cache
+E:\bridgelab\SnakeandLadder\obj\Debug\netcoreapp3.1\SnakeandLadder.dll
+E:\bridgelab\SnakeandLadder\obj\Debug\netcoreapp3.1\SnakeandLadder.pdb
+E:\bridgelab\SnakeandLadder\obj\Debug\netcoreapp3.1\SnakeandLadder.genruntimeconfig.cache
